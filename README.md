@@ -217,6 +217,4 @@ sklearn-doc-zh <port>
 * 因为我们做翻译这事情是觉得开心和装逼，比较纯粹！
 * 你如果喜欢，你可以来参与/甚至负责这个项目，没有任何学历和背景的限制
 
-## 赞助我们
 
-<img src="http://data.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
